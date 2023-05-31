@@ -4,7 +4,9 @@
 using namespace std;
 
 // entry point
-int main() {
-	cout << "hello world";
-	return 0;
+int
+main()
+{
+  cout << "hello world";
+  return 0;
 }
